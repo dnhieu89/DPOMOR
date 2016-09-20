@@ -1,0 +1,485 @@
+[
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/ampharos/ampharos7.jpg",
+    "steps": 7,
+    "name": "Ampharos",
+    "file_name": "ampharos"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/bellossom/bellossom4.png",
+    "steps": 4,
+    "name": "Bellossom",
+    "file_name": "bellossom"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/blastoise/blastoise7.png",
+    "steps": 7,
+    "name": "Blastoise",
+    "file_name": "blastoise"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/blaziken/blaziken8.png",
+    "steps": 8,
+    "name": "Blaziken",
+    "file_name": "blaziken"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/bulbasaur/bulbasaur6.jpg",
+    "steps": 6,
+    "name": "Bulbasaur",
+    "file_name": "bulbasaur"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/charizard/charizard9.png",
+    "steps": 9,
+    "name": "Charizard",
+    "file_name": "charizard"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/charmeleon/charmeleon9.jpg",
+    "steps": 9,
+    "name": "Charmeleon",
+    "file_name": "charmeleon"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/clefairy/clefairy6.jpg",
+    "steps": 6,
+    "name": "Clefairy",
+    "file_name": "clefairy"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/cressilia/cressilia6.jpg",
+    "steps": 6,
+    "name": "Cressilia",
+    "file_name": "cressilia"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/cubone/cubone5.png",
+    "steps": 5,
+    "name": "Cubone",
+    "file_name": "cubone"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/cyndaquil/cyndaquil3.png",
+    "steps": 3,
+    "name": "Cyndaquil",
+    "file_name": "cyndaquil"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/darkrai/darkrai4.jpg",
+    "steps": 4,
+    "name": "Darkrai",
+    "file_name": "darkrai"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/dialga/dialga9.jpg",
+    "steps": 9,
+    "name": "dialga",
+    "file_name": "dialga"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/dragonite/dragonite7.png",
+    "steps": 7,
+    "name": "Dragonite",
+    "file_name": "dragonite"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/eevee/eevee9.png",
+    "steps": 9,
+    "name": "Eevee",
+    "file_name": "eevee"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/entei/entei8.png",
+    "steps": 8,
+    "name": "Entei",
+    "file_name": "entei"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/flareon/flareon8.jpg",
+    "steps": 8,
+    "name": "Flareon",
+    "file_name": "flareon"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/furret/furret7.jpg",
+    "steps": 7,
+    "name": "Furret",
+    "file_name": "furret"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/girafarig/girafarig7.png",
+    "steps": 7,
+    "name": "Girafarig",
+    "file_name": "girafarig"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/goldeen/goldeen6.png",
+    "steps": 6,
+    "name": "Goldeen",
+    "file_name": "goldeen"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/happiny/happiny6.png",
+    "steps": 6,
+    "name": "Happiny",
+    "file_name": "happiny"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/hitmonlee/hitmonlee7.png",
+    "steps": 7,
+    "name": "Hitmonlee",
+    "file_name": "hitmonlee"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/jigglypuff/jigglypuff6.jpg",
+    "steps": 6,
+    "name": "Jigglypuff",
+    "file_name": "jigglypuff"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/kabuto/kabuto5.png",
+    "steps": 5,
+    "name": "Kabuto",
+    "file_name": "kabuto"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/kangaskhan/kangaskhan7.jpg",
+    "steps": 7,
+    "name": "Kangaskhan",
+    "file_name": "kangaskhan"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/koffing/koffing5.png",
+    "steps": 5,
+    "name": "Koffing",
+    "file_name": "koffing"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/land_shaymin/land_shaymin5.jpg",
+    "steps": 5,
+    "name": "Land_shaymin",
+    "file_name": "land_shaymin"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/lanturn/lanturn4.png",
+    "steps": 4,
+    "name": "Lanturn",
+    "file_name": "lanturn"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/lugia/lugia8.jpg",
+    "steps": 8,
+    "name": "Lugia",
+    "file_name": "lugia"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/magikarp/magikarp6.png",
+    "steps": 6,
+    "name": "Magikarp",
+    "file_name": "magikarp"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/mareep/mareep6.png",
+    "steps": 6,
+    "name": "Mareep",
+    "file_name": "mareep"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/marill/marill7.jpg",
+    "steps": 7,
+    "name": "Marill",
+    "file_name": "marill"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/medicham/medicham6.png",
+    "steps": 6,
+    "name": "Medicham",
+    "file_name": "medicham"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/meowth/meowth8.png",
+    "steps": 8,
+    "name": "Meowth",
+    "file_name": "meowth"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/metang/metang7.png",
+    "steps": 7,
+    "name": "Metang",
+    "file_name": "metang"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/mew/mew6.jpg",
+    "steps": 6,
+    "name": "Mew",
+    "file_name": "mew"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/mewtwo/mewtwo10.jpg",
+    "steps": 10,
+    "name": "Mewtwo",
+    "file_name": "mewtwo"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/miltank/miltank6.png",
+    "steps": 6,
+    "name": "Miltank",
+    "file_name": "miltank"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/mudkip/mudkip5.png",
+    "steps": 5,
+    "name": "Mudkip",
+    "file_name": "mudkip"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/nidoking/nidoking5.jpg",
+    "steps": 5,
+    "name": "Nidoking",
+    "file_name": "nidoking"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/nidoran/nidoran6.jpg",
+    "steps": 6,
+    "name": "Nidoran",
+    "file_name": "nidoran"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/ninetales/ninetales8.png",
+    "steps": 8,
+    "name": "Ninetales",
+    "file_name": "ninetales"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/origin_forme_giratina/origin_forme_giratina9.jpg",
+    "steps": 9,
+    "name": "Giratina",
+    "file_name": "origin_forme_giratina"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/altered_forme_giratina/altered_forme_giratina9.jpg",
+    "steps": 9,
+    "name": "Giratina",
+    "file_name": "altered_forme_giratina"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/oshawott/oshawott6.png",
+    "steps": 6,
+    "name": "Oshawott",
+    "file_name": "oshawott"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pachirisu/pachirisu5.png",
+    "steps": 5,
+    "name": "Pachirisu",
+    "file_name": "pachirisu"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/palkia/palkia12.jpg",
+    "steps": 12,
+    "name": "Palkia",
+    "file_name": "palkia"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pichu/pichu7.png",
+    "steps": 7,
+    "name": "Pichu",
+    "file_name": "pichu"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pidgeot/pidgeot7.png",
+    "steps": 7,
+    "name": "Pidgeot",
+    "file_name": "pidgeot"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pikachu/pikachu9.jpg",
+    "steps": 9,
+    "name": "Pikachu",
+    "file_name": "pikachu"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/piplup/piplup4.jpg",
+    "steps": 4,
+    "name": "Piplup",
+    "file_name": "piplup"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/poliwag/poliwag5.jpg",
+    "steps": 5,
+    "name": "Poliwag",
+    "file_name": "poliwag"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/quagsire/quagsire4.png",
+    "steps": 4,
+    "name": "Quagsire",
+    "file_name": "quagsire"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/raichu/raichu6.jpg",
+    "steps": 6,
+    "name": "Raichu",
+    "file_name": "raichu"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/rattata/rattata5.jpg",
+    "steps": 5,
+    "name": "Rattata",
+    "file_name": "rattata"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/salamence/salamence7.png",
+    "steps": 7,
+    "name": "Salamence",
+    "file_name": "salamence"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/skitty/skitty8.jpg",
+    "steps": 8,
+    "name": "Skitty",
+    "file_name": "skitty"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/sky_shaymin/sky_shaymin8.jpg",
+    "steps": 8,
+    "name": "Sky shaymin",
+    "file_name": "sky_shaymin"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/snorlax/snorlax5.jpg",
+    "steps": 5,
+    "name": "Snorlax",
+    "file_name": "snorlax"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/spheal/spheal3.png",
+    "steps": 3,
+    "name": "Spheal",
+    "file_name": "spheal"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/squirtle/squirtle6.jpg",
+    "steps": 6,
+    "name": "Squirtle",
+    "file_name": "squirtle"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/sudowoodo/sudowoodo4.png",
+    "steps": 4,
+    "name": "Sudowoodo",
+    "file_name": "sudowoodo"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/teddiursa/teddiursa6.png",
+    "steps": 6,
+    "name": "Teddiursa",
+    "file_name": "teddiursa"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/togepi/togepi6.jpg",
+    "steps": 6,
+    "name": "Togepi",
+    "file_name": "togepi"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/typhlosion/typhlosion6.png",
+    "steps": 6,
+    "name": "Typhlosion",
+    "file_name": "typhlosion"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/tyranitar/tyranitar7.png",
+    "steps": 7,
+    "name": "Tyranitar",
+    "file_name": "tyranitar"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/vulpix/vulpix6.png",
+    "steps": 6,
+    "name": "Vulpix",
+    "file_name": "vulpix"
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/wobbuffet/wobbuffet4.png",
+    "steps": 4,
+    "name": "Wobbuffet",
+    "file_name": "wobbuffet"
+  },
+  {
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/zapdos/zapdos5.jpg",
+    "steps": 5,
+    "name": "Zapdos",
+    "file_name": "zapdos"
+  }
+]
