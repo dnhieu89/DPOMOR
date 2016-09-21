@@ -87,7 +87,7 @@
     "prefix": ".jpg",
     "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/dialga/dialga9.jpg",
     "steps": 9,
-    "name": "dialga",
+    "name": "Dialga",
     "file_name": "dialga"
   },
   {
