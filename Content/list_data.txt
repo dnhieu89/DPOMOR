@@ -35,8 +35,8 @@
     "file_name": "bulbasaur"
   },
   {
-    "prefix": ".png",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/charizard/charizard9.png",
+    "prefix": ".jpg",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/charizard/charizard9.jpg",
     "steps": 9,
     "name": "Charizard",
     "file_name": "charizard"
