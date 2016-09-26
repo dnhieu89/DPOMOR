@@ -6,5 +6,6 @@
   "banner_ads":1,
   "intertitial_ads":0,
   "video_ads":1,
-  "purchased":0
+  "purchased":0,
+  "admob_ads_id:"ca-app-pub-9790108308880826/3903955194"
 }
