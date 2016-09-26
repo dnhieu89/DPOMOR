@@ -2,5 +2,9 @@
   "ads_watch": 0,
   "version": 101,
   "force_update": 0,
-  "content_link": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content"
+  "content_link": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content",
+  "banner_ads":1,
+  "intertitial_ads":0,
+  "video_ads":1,
+  "purchased":0
 }
