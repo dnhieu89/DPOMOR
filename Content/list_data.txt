@@ -481,5 +481,12 @@
     "steps": 5,
     "name": "Zapdos",
     "file_name": "zapdos"
+  },
+  {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/zygarde/zygarde8.gif",
+    "steps": 8,
+    "name": "Zygarde",
+    "file_name": "zygarde"
   }
 ]
