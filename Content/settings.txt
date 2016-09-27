@@ -1,1 +1,11 @@
-{“ads_watch”:0,”version”:1.0,”force_update”:0,”content_link”:”https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/”}
+{
+  "ads_watch": 0,
+  "version": 101,
+  "force_update": 0,
+  "content_link": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content",
+  "banner_ads":1,
+  "intertitial_ads":1,
+  "video_ads":1,
+  "purchased":0,
+  "admob_ads_id":"ca-app-pub-9790108308880826/3903955194"
+}
