@@ -594,6 +594,38 @@
     "name": "Espeon",
     "file_name": "espeon",
     "block":0
+  },
+  {
+    "prefix": ".png",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/onix/onix6.png",
+    "steps": 6,
+    "name": "Onix",
+    "file_name": "onix",
+    "block":0
+  },
+  {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/torchic/torchic6.gif",
+    "steps": 6,
+    "name": "Torchic",
+    "file_name": "torchic",
+    "block":0
+  },
+  {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/roselia/roselia6.gif",
+    "steps": 6,
+    "name": "Roselia",
+    "file_name": "roselia",
+    "block":1
+  },
+  {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/dedenne/dedenne7.gif",
+    "steps": 7,
+    "name": "Dedenne",
+    "file_name": "dedenne",
+    "block":0
   }
 
 ]
