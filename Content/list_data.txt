@@ -557,45 +557,43 @@
   },
 {
     "prefix": ".gif",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Aipom/step_254_9.gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/aipom/aipom9.gif",
     "steps": 9,
     "name": "Aipom",
-    "file_name": “step_254_”,
-    "block”:0
+    "file_name": "aipom",
+    "block":0
   },
 {
     "prefix": ".gif",
     "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Haxorus/Haxorus9.gif",
     "steps": 9,
     "name": "Haxorus",
-    "file_name": “Haxorus”,
-    "block”:1
+    "file_name": "Haxorus",
+    "block":1
   },
 {
     "prefix": ".gif",
     "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Tyrunt/Tyrunt9.gif",
     "steps": 9,
     "name": "Tyrunt",
-    "file_name": “tyrunt”,
-    "block”:1
+    "file_name": "tyrunt",
+    "block":1
   },
   {
     "prefix": ".gif",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pancham/step_64_6.gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pancham/pancham6.gif",
     "steps": 6,
     "name": "Pancham",
-    "file_name": “pancham”,
-    "block”:0
+    "file_name": "pancham",
+    "block":0
   },
    {
     "prefix": ".gif",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/espeon/step_226_5.gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/espeon/espeon5.gif",
     "steps": 5,
     "name": "Espeon",
-    "file_name": “espeon”,
-    "block”:0
+    "file_name": "espeon",
+    "block":0
   }
-
-
 
 ]
