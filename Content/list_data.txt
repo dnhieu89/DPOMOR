@@ -374,26 +374,10 @@
   },
   {
     "prefix": ".png",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pichu/pichu7.png",
-    "steps": 7,
-    "name": "Pichu",
-    "file_name": "pichu",
-    "block":1
-  },
-  {
-    "prefix": ".png",
     "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pidgeot/pidgeot7.png",
     "steps": 7,
     "name": "Pidgeot",
     "file_name": "pidgeot",
-    "block":1
-  },
-  {
-    "prefix": ".jpg",
-    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pikachu/pikachu9.jpg",
-    "steps": 9,
-    "name": "Pikachu",
-    "file_name": "pikachu",
     "block":1
   },
   {
