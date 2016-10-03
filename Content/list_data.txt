@@ -578,6 +578,22 @@
     "name": "Tyrunt",
     "file_name": “tyrunt”,
     "block”:1
+  },
+  {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/pancham/step_64_6.gif",
+    "steps": 6,
+    "name": "Pancham",
+    "file_name": “pancham”,
+    "block”:0
+  },
+   {
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/espeon/step_226_5.gif",
+    "steps": 5,
+    "name": "Espeon",
+    "file_name": “espeon”,
+    "block”:0
   }
 
 
