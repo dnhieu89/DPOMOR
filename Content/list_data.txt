@@ -554,5 +554,32 @@
     "name": "Zygarde",
     "file_name": "zygarde",
     "block":1
+  },
+{
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Aipom/step_254_9.gif",
+    "steps": 9,
+    "name": "Aipom",
+    "file_name": “step_254_”,
+    "block”:0
+  },
+{
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Haxorus/Haxorus9.gif",
+    "steps": 9,
+    "name": "Haxorus",
+    "file_name": “Haxorus”,
+    "block”:1
+  },
+{
+    "prefix": ".gif",
+    "avatar": "https://raw.githubusercontent.com/dnhieu89/DPOMOR/master/Content/Tyrunt/Tyrunt9.gif",
+    "steps": 9,
+    "name": "Tyrunt",
+    "file_name": “tyrunt”,
+    "block”:1
   }
+
+
+
 ]
